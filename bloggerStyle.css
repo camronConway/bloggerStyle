@@ -1,0 +1,35 @@
+body {
+	font-family: "Source Sans Pro";
+	width = 40%;
+	border: 20px solid #bdc3c7;
+	margin: 2% 10%;
+	padding: 20px;
+	font-size: 16px;
+}
+
+hr {
+	size: 1px;
+	color: #bdc3c7;
+}
+
+h2 {
+	color: #2c3e50;
+	text-transform: capitalize;
+	font-size: 2em;
+}
+
+.quote {
+	border-left: 5px solid #bdc3c7;
+	font-size: 1em;
+	padding-left: 5px;
+}
+
+h4 {
+	color: #3498db;
+	letter-spacing: 0.2rem;
+	text-transform: uppercase;
+}
+
+p {
+	font-size: 1em;
+}
